@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fendiflexin
-- 👀 I’m interested in learning more about Web Development and Web Scrapers.
-- 🌱 I’m currently learning PHP & C#
-- 💞️ I’m looking to collaborate on a Web Scraper in C#
+- 👋 Hi, I’m @fendi
+- 👀 I’m interested in learning more about the implementation of machine learning models
+- 🌱 I’m currently developing in Python, JS & C++
+- 💞️ I'm open to collaborations 
 - 📫 How to reach me - discord: feлdi#7171
 
 <!---
